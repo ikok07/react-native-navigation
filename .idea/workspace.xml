@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9fb1abee-765f-44fa-bb9c-8f0a1a9493ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/react-native-navigation/data/category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-native-navigation/data/dummy-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-native-navigation/data/meal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.dockerignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitmodules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RNCourse/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RNCourse/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RNCourse/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RNCourse/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RNCourse/RNCourse/%ProgramData%/Microsoft/Windows/UUS/State/_active.uusver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RNCourse/RNCourse/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RNCourse/RNCourse/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RNCourse/RNCourse/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RNCourse/RNCourse/assets/images/goal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RNCourse/RNCourse/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RNCourse/RNCourse/components/GoalInput.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RNCourse/RNCourse/components/GoalItem.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RNCourse/RNCourse/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RNCourse/RNCourse/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../configuration/apple-client-secret-key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../configuration/apple-private-key.p8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../configuration/application-latest-version.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../configuration/config.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../configuration/db/production.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../configuration/deepl-keys-backend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../configuration/deepl-keys-client.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../configuration/deepl-keys.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../configuration/push-notification-token" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../configuration/spoonacular-keys.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controllers/v1/allowedUsersController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controllers/v1/authController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controllers/v1/customMeals/customMealsController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controllers/v1/defaultIndexController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controllers/v1/errorController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controllers/v1/fakeEmailController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controllers/v1/ingredients/ingredientController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controllers/v1/meals/mealController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controllers/v1/meals/mealPlanController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controllers/v1/paymentsController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controllers/v1/permissionController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controllers/v1/scheduleController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controllers/v1/searchController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controllers/v1/serverNotificationController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controllers/v1/statisticsController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controllers/v1/userController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controllers/v1/userDetails/userDetailsController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controllers/v1/userDetails/userDetailsHandler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controllers/v1/utilityController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controllers/v1/wellsavorAI/wellsavorAIController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controllers/v2/meals/mealPlanController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database-modifier/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../database-modifier/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database-modifier/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/../database-modifier/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database-modifier/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../database-modifier/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database-modifier/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/../database-modifier/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/bg/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/bg/emailConfirm.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/bg/freeTrialEnding.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/bg/offer101Reward.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/bg/passwordChanged.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/bg/resetPassword.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/bg/signIn.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/bg/signInUrl.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/bg/signedForOffer101.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/bg/subscription.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/bg/token.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/bg/welcome.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/de/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/en/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/en/emailConfirm.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/en/freeTrialEnding.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/en/offer101Reward.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/en/passwordChanged.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/en/resetPassword.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/en/signIn.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/en/signInUrl.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/en/signedForOffer101.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/en/subscription.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/en/token.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/en/welcome.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../errorIdentifiers.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../langchain-demo/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../langchain-demo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../langchain-demo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../langchain-demo/chromadb.js" beforeDir="false" afterPath="$PROJECT_DIR$/../langchain-demo/chromadb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../langchain-demo/jsonMeals.js" beforeDir="false" afterPath="$PROJECT_DIR$/../langchain-demo/jsonMeals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../langchain-demo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../langchain-demo/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../langchain-demo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../langchain-demo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../langchain-demo/pdfLoader.js" beforeDir="false" afterPath="$PROJECT_DIR$/../langchain-demo/pdfLoader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../langchain-demo/test-openai.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../languages/bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../languages/de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../languages/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../languages/getMessages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../languages/identifyLanguage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../languages/initI18n.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../languages/messages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mailsender/offer101.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations/1709917096335-add-preferred-meals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations/1710006131157-add-min-protein.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations/1711695190733-add-allowed-notifications.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v1/allowedUsersModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v1/commonIngredientModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v1/commonMealModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v1/dailyPageDataModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v1/first101RegisteredModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v1/i18nModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v1/mealPlanModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v1/tokenModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v1/userDetailsModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v1/userFavouriteIngredientModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v1/userFavouriteMealModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v1/userModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v1/wellsavorAI/aiReportModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v1/wellsavorAI/aiSelectedMealsModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v1/wellsavorAI/aiSuggestionModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modify_config_dev.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modify_config_prod.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../process.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/custom-meal-images/meal--1709747430243.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/custom-meal-images/meal-Recipe-1-1712856226831.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/custom-meal-images/meal-Recipe-10-1709751976895.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/custom-meal-images/meal-Recipe-2-1712857044470.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/custom-meal-images/meal-Recipe-3-1712857052616.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/custom-meal-images/meal-Recipe-4-1709493365342.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/custom-meal-images/meal-asd-1709751619653.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/custom-meal-images/meal-asd1234-1709748937991.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/custom-meal-images/meal-test-1709751300287.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/custom-meal-images/meal-Рецепта-1-1715010182561.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/custom-meal-images/meal-Рецепта-2-1715009453296.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/profile-images/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/profile-images/user-65a28b7e2723ac252517765b-1705943668566.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/profile-images/user-65a28b7e2723ac252517765b-1705943732410.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/profile-images/user-65c7dd714f968910c9b6f5e6-1714768480530.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/profile-images/user-65c7dd714f968910c9b6f5e6-1714848683245.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/profile-images/user-65c7dd714f968910c9b6f5e6-1715527102441.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/videos/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/v1/allowedUsersRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/v1/customMeals/customMealRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/v1/dailyRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/v1/defaultIndexRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/v1/fakeEmailRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/v1/ingredients/favouriteIngredientRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/v1/ingredients/ingredientRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/v1/meals/favouriteMealRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/v1/meals/mealPlanExtensionRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/v1/meals/mealPlanRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/v1/meals/mealRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/v1/paymentsRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/v1/searchRouter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/v1/serverNotificationRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/v1/statisticsRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/v1/stripeRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/v1/userDetailsRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/v1/userRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/v1/utilityRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/v1/wellsavorAI/aiReportsRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/v1/wellsavorAI/wellsavorAIRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/v2/meals/mealPlanRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/v2/userRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/Math/isInRange.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/Math/roundNumber.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/appError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/assetProcess/addExtension.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/assetProcess/imageProcess.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/assetProcess/videoProcess.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/catchAsync.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/checkForCyrillic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/crypto/generateRandomString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/dates/isDateInAnotherDate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/email.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/facebookPixels/pixels.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/fakeObjects/user.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/features/basicFeatures.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/features/mealPlanFeatures.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/features/validationFlow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/geolocation/GeoLite2-City.mmdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/geolocation/geolocation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/geolocation/initGeolocationObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/getOutputDirectory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/handlerFactory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/html-tags/removeHtmlTags.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/mongoose/convertToObjectId.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/mongoose/isValidObjectId.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/multer/multerMultiple.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/multer/multerSinglePhoto.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/multer/multerSingleVideo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/objects/areObjectsEqual.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/objects/deepFilterObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/objects/filterObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/objects/hasAllRequiredKeys.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/payments/stripe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/project-specific/allowedUserMethods.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/project-specific/customMeals/customMealMethods.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/project-specific/deepl/deeplKeys.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/project-specific/deepl/translateIngredient.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/project-specific/deepl/translateRecipe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/project-specific/deepl/translateText.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/project-specific/emails/sendThankYouEmail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/project-specific/getIngredientFromApi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/project-specific/getMealFromApi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/project-specific/ingredients/getBulgarianIngredient.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/project-specific/ingredients/getEnglishIngredient.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/project-specific/ingredients/getIngredient.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/project-specific/mealPlans/mealPlanMethods.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/project-specific/meals/commonMealMethods.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/project-specific/meals/getBulgarianMeal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/project-specific/meals/getEnglishMeal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/project-specific/meals/getMeal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/project-specific/notifications/refreshMealTimeNotifications.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/project-specific/selectedMeals/selectedMealsMethods.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/project-specific/spoonacular/spoonacularMethods.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/project-specific/spoonacularKeys.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/project-specific/wellsavorAI/newSuggestionMethods.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/project-specific/wellsavorAI/wellsavorAIMethods.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/remoteNotifications/sendNotification.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/server/serverManager.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/server/tunnel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/uppercaseFirstLetter/uppercaseFirstLetter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/verification/tokenVerification.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/verification/urlVerification.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wellsavor-api" beforeDir="false" afterPath="$PROJECT_DIR$/../wellsavor-api" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ikok07"
+  }
+}]]></component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ikok07/RNCourse.git",
+    "accountId": "767ccc1d-e77b-4fc8-9e41-18cb32e33bf9"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2h3DfjCXGyHqU2H5UmtR1FDUAqK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ifloa/WebstormProjects/reactNativeNavigation/react-native-navigation/data",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.start (1).executor": "Run",
+    "npm.start.executor": "Run",
+    "ts.external.directory.path": "C:\\Users\\ifloa\\WebstormProjects\\reactNativeNavigation\\react-native-navigation\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ifloa\WebstormProjects\reactNativeNavigation\react-native-navigation\data" />
+      <recent name="C:\Users\ifloa\WebstormProjects\reactNativeNavigation\data" />
+      <recent name="C:\Users\ifloa\WebstormProjects\reactNativeNavigation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start (1)">
+    <configuration name="start (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/react-native-navigation/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start (1)" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-WS-241.15989.105" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fb1abee-765f-44fa-bb9c-8f0a1a9493ec" name="Changes" comment="" />
+      <created>1716813973185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716813973185</updated>
+      <workItem from="1716813974270" duration="1376000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
