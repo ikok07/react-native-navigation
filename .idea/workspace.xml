@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9fb1abee-765f-44fa-bb9c-8f0a1a9493ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/components/IconButton.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/MealDetails.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/MealDetails/List.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/MealDetails/Subtitle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/FavouritesScreen.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/MealDetailsScreen.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/MealsList/MealsList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/context/favourites-context.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/redux/favourites.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/redux/store.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.dockerignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitmodules" beforeDir="false" />
@@ -150,9 +148,11 @@
       <change beforePath="$PROJECT_DIR$/../public/videos/.gitkeep" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/MealItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/MealItem.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/MealItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/MealsList/MealItem.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/FavouritesScreen.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/screens/FavouritesScreen.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/MealDetailsScreen.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/screens/MealDetailsScreen.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/screens/MealsOverviewScreen.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/screens/MealsOverviewScreen.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../routes/v1/allowedUsersRoutes.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../routes/v1/customMeals/customMealRoutes.js" beforeDir="false" />
@@ -314,6 +314,7 @@
       <recent name="C:\Users\ifloa\WebstormProjects\reactNativeNavigation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ifloa\WebstormProjects\reactNativeNavigation\components\MealsList" />
       <recent name="C:\Users\ifloa\WebstormProjects\reactNativeNavigation\models" />
       <recent name="C:\Users\ifloa\WebstormProjects\reactNativeNavigation" />
     </key>
@@ -362,7 +363,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716813973185</updated>
       <workItem from="1716813974270" duration="8525000" />
-      <workItem from="1716882214960" duration="6775000" />
+      <workItem from="1716882214960" duration="11011000" />
     </task>
     <servers />
   </component>

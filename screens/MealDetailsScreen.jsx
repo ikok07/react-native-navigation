@@ -1,23 +1,36 @@
 import {Text, View, Image, StyleSheet, ScrollView, Button} from "react-native";
-import {useLayoutEffect} from "react";
+import {useContext, useEffect, useLayoutEffect} from "react";
 import {MEALS} from "../data/dummy-data";
-import meal from "../models/meal";
 import MealDetails from "../components/MealDetails";
 import Subtitle from "../components/MealDetails/Subtitle";
 import {List} from "../components/MealDetails/List";
 import IconButton from "../components/IconButton";
+import {useDispatch, useSelector} from "react-redux";
+import {addFavourite, removeFavourite} from "../store/redux/favourites";
+
+// import {useFavourites} from "../store/context/favourites-context";
 
 export function MealDetailsScreen({navigation, route}) {
+    // const favouriteMeals = useFavourites()
+
+    const favouriteMealIds = useSelector(state => state.favouriteMeals.ids)
+    const dispatch = useDispatch()
     const mealId = route.params.mealId
     const selectedMeal = MEALS.find(meal => meal.id === mealId)
+    const isFavourite = favouriteMealIds.includes(mealId)
 
-    useLayoutEffect(() => {
+    function handleToggleFavourite() {
+        if (isFavourite) dispatch(removeFavourite({ id: mealId}))
+        else dispatch(addFavourite({id: mealId}))
+    }
+
+    useEffect(() => {
         navigation.setOptions({
             headerRight: () => {
-                return <IconButton icon={"star"} onPress={() => console.log("Hello")}/>
+                return <IconButton icon={isFavourite ? "star" : "star-outline"} onPress={handleToggleFavourite}/>
             }
         })
-    }, [navigation, mealId]);
+    }, [favouriteMealIds]);
 
     return <ScrollView style={styles.rootContainer}>
         <Image style={styles.image} source={{uri: selectedMeal.imageUrl}}/>
